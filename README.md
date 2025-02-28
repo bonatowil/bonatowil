@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou Wilson Bonato 
 
-<!--
-**bonatowil/bonatowil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LinkedIn Badge](https://img.shields.io/badge/-Wilson%20Bonato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bonato-05a954248/)
+![GitHub followers](https://img.shields.io/github/followers/bonatowil?label=Follow&style=social)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 🔭 Atualmente estou trabalhando em: Delphi | MySQL - Sistema ERP para gestão de empresa
+- 📫 Entre em contato: [wilsonbonatojr@gmail.com](mailto:wilsonbonatojr@gmail.com) | (19) 99730-2004
+
+---
+
+## Habilidades
+
+- **Linguagens de Programação:** Delphi, Python, HTML, CSS, JavaScript, Java
+- **Banco de Dados:** MySQL
+- **Ferramentas e Tecnologias:** Github, Tortoise
+
+---
+
+## Conecte-se comigo
+
+[![Linkedin Badge](https://img.shields.io/badge/Wilson%20Bonato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bonato-05a954248/)](https://www.linkedin.com/in/wilson-bonato-05a954248/)
