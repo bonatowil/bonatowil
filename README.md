@@ -1,7 +1,5 @@
 # Olá, sou Wilson Bonato 
 
----
-
 ## Sobre mim
 
 - 🔭 Atualmente estou trabalhando em: Delphi | MySQL - Sistema ERP para gestão de empresa
