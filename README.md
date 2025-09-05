@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🔭 Atualmente estou trabalhando em: Delphi | MySQL - Sistema ERP para gestão de empresa
-- 📫 Entre em contato: [wilsonbonatojr@gmail.com](mailto:wilsonbonatojr@gmail.com) | (19) 99730-2004
+- 📫 Entre em contato: [wilsonbonatojr@gmail.com](mailto:wilsonbonatojr@gmail.com) | (19) 98600-3379
 
 ---
 
