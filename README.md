@@ -9,9 +9,10 @@
 
 ## Habilidades
 
-- **Linguagens de Programação:** Delphi, Python, HTML, CSS, JavaScript, Java
-- **Banco de Dados:** MySQL
-- **Ferramentas e Tecnologias:** Github, Tortoise
+- **Linguagens de Programação:** TypeScript, JavaScript, Java, Python, Delphi (Pascal), C#, C++
+- **Frameworks:** Java Spring, Angular, React, NestJS, React Native
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Ferramentas e Tecnologias:** Github, Tortoise, Github Actions (CI/CD), Docker, NX, Node
 
 ---
 
