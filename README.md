@@ -1,21 +1,48 @@
-# Olá, sou Wilson Bonato 
+# Olá — eu sou o Wilson Bonato 👋
 
-## Sobre mim
-
-- 🔭 Atualmente estou trabalhando em: Delphi | MySQL - Sistema ERP para gestão de empresa
-- 📫 Entre em contato: [wilsonbonatojr@gmail.com](mailto:wilsonbonatojr@gmail.com) | (19) 98600-3379
+> Desenvolvedor focado em **Sistemas de Informação**. Especialista em **Delphi + MySQL** para ERPs, com experiência em backend, integrações e aplicações web modernas.
 
 ---
 
-## Habilidades
-
-- **Linguagens de Programação:** TypeScript, JavaScript, Java, Python, Delphi (Pascal), C#, C++
-- **Frameworks:** Java Spring, Angular, React, NestJS, React Native
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Ferramentas e Tecnologias:** Github, Tortoise, Github Actions (CI/CD), Docker, NX, Node
+## 📌 Sobre mim
+- 🔭 Atualmente: Desenvolvendo um **Sistema ERP** (Delphi + MySQL 5.7) para gestão empresarial.  
+- 🎓 Formação: Sistemas de Informação.  
 
 ---
 
-## Conecte-se comigo
+## 🧰 Tech Stack / Habilidades
 
-[![Linkedin Badge](https://img.shields.io/badge/Wilson%20Bonato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bonato-05a954248/)](https://www.linkedin.com/in/wilson-bonato-05a954248/)
+**Linguagens:**  
+TypeScript · JavaScript · Java · Python · **Delphi (Pascal)** · C# · C++
+
+**Frameworks & Plataformas:**  
+Java Spring · Angular · React · NestJS · React Native
+
+**Bancos de Dados:**  
+MySQL (5.7) · PostgreSQL
+
+**Ferramentas & DevOps:**  
+GitHub · GitHub Actions (CI/CD) · Docker · NX · Node
+
+---
+
+## 📈 Estatísticas & Badges
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonatowil&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonatowil&show_icons=true&theme=radical)
+
+---
+
+## 🧩 Como eu trabalho / Boas práticas
+- Código legível e documentado (comentários e README nos repositórios).  
+- Testes unitários e integração quando aplicável.  
+- CI/CD com GitHub Actions para automatizar builds e deploys leves.  
+
+---
+
+## 📎 Quer colaborar / Fazer contato?  
+- ✉️ E-mail: [wilsonbonatojr@gmail.com](mailto:wilsonbonatojr@gmail.com)  
+- 🔗 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/Wilson%20Bonato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bonato-05a954248/)](https://www.linkedin.com/in/wilson-bonato-05a954248/)
+- 📱 Telefone: (19) 98600-3379
+
+---
