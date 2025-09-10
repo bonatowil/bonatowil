@@ -32,11 +32,6 @@ GitHub · GitHub Actions (CI/CD) · Docker · NX · Node
 
 ---
 
-## 🧩 Como eu trabalho / Boas práticas
-- Código legível e documentado (comentários e README nos repositórios).  
-- Testes unitários e integração quando aplicável.  
-- CI/CD com GitHub Actions para automatizar builds e deploys leves.  
-
 ---
 
 ## 📎 Quer colaborar / Fazer contato?  
