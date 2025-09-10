@@ -32,8 +32,6 @@ GitHub · GitHub Actions (CI/CD) · Docker · NX · Node
 
 ---
 
----
-
 ## 📎 Quer colaborar / Fazer contato?  
 - ✉️ E-mail: [wilsonbonatojr@gmail.com](mailto:wilsonbonatojr@gmail.com)  
 - 🔗 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/Wilson%20Bonato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bonato-05a954248/)](https://www.linkedin.com/in/wilson-bonato-05a954248/)
